@@ -5,7 +5,7 @@
     "Punchline": "Your character has a personality now.",
     "Description": "Mannerisms gives your character a life of their own. Set up gestures that react to what you say in chat — type 'bye' and your character waves, say 'WHAT' and they recoil in shock. Create idle profiles so your character reads, checks their phone, or paces around when you're AFK. Supports regex triggers, target-aware emotes, random emote pools with rarity controls, and fully customizable idle sequences.",
     "InternalName": "Mannerisms",
-    "AssemblyVersion": "0.0.1.2",
+    "AssemblyVersion": "0.0.1.3",
     "RepoUrl": "https://github.com/mustbetommy/Mannerisms",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
